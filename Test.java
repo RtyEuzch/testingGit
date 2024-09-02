@@ -6,5 +6,7 @@ public class Test {
 			System.out.println(dt);
 			dt = dt.plusMinutes(30);			
 		}
+
+		System.out.println("Added an update");
 	}
 }
