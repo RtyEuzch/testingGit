@@ -7,6 +7,6 @@ public class Test {
 			dt = dt.plusMinutes(30);			
 		}
 
-		System.out.println("Added an update");
+		System.out.println("Reversed my update");
 	}
 }
